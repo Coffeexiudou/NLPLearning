@@ -1,9 +1,18 @@
-# NLPLearning
-NLP常见算法学习
+# word2vec 
 
-## Todo
+##基于negative sample的skip-gram 词向量 
 
-~~关键词抽取~~ 这个先不写了
+照着公式和一些别人代码参考实现，具体对不对还没验证。大概思路捋顺了。
 
-先把一直想搞的word2vec、rnn、seq2seq、attention这些学一下，慢慢补吧
+具体公式推导，有空就写一下。
 
+
+**这是一些参考的博客**
+
+[一文详解 Word2vec 之 Skip-Gram 模型](https://www.leiphone.com/news/201706/PamWKpfRFEI42McI.html)
+
+[自己动手写word2vec](https://blog.csdn.net/u014595019/article/details/51884529)
+
+[word2vec原理](http://www.cnblogs.com/pinard/p/7160330.html)
+
+[word2vec中的数学原理  原文没找到](https://blog.csdn.net/itplus/article/details/37969519)
