@@ -1,6 +1,6 @@
 # word2vec 
 
-##基于negative sample的skip-gram 词向量 
+## 基于negative sample的skip-gram 词向量 
 
 照着公式和一些别人代码参考实现，具体对不对还没验证。大概思路捋顺了。
 
