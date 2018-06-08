@@ -1,0 +1,5 @@
+# Text Classitication 
+
+## fasttext
+
+## textCNN
